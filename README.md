@@ -61,4 +61,4 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 5. Open a pull request
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
