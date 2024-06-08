@@ -21,7 +21,7 @@ To run this project, you need to have Python installed on your machine. You can 
 1. Clone the repository:
     ```bash
     git clone flappy-bird-ai.git
-    cd automated-flappy-bird
+    cd flappy-bird-ai
     ```
 
 2. Install the dependencies:
